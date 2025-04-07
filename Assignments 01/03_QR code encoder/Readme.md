@@ -1,0 +1,1 @@
+[QR code encoder - decoder](../../25%20Projects/08.%20QR%20code%20encoder%20-%20decoder/)
